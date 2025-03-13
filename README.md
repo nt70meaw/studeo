@@ -37,6 +37,7 @@ studeo (ストュデオ)
 - JSライブラリ：jQuery
 - IDE：VSCode + EC2(SSH接続)
 ​
+
 使用素材
 - サイト内アイコン:Font Awesome　ver.6.7.2 
   URL:https://fontawesome.com/
